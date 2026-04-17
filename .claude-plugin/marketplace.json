@@ -1,0 +1,18 @@
+{
+  "name": "yeboong-marketplace",
+  "owner": {
+    "name": "yeboong99",
+    "email": "yechani9905@gmail.com"
+  },
+  "plugins": [
+    {
+      "name": "git-commit",
+      "source": "./plugins/git-commit-plugin/skills/git-commit",
+      "description": "git commit 플러그인",
+      "version": "1.0.0",
+      "author": {
+        "name": "yeboong99"
+      }
+    }
+  ]
+}
