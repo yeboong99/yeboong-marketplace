@@ -7,12 +7,10 @@
   "plugins": [
     {
       "name": "git-commit",
-      "source": "./plugins/git-commit-plugin/skills/git-commit",
-      "description": "git commit 플러그인",
-      "version": "1.0.0",
-      "author": {
-        "name": "yeboong99"
-      }
+      "description": "git commit 플러그인 (스킬)",
+      "source": "./plugins/git-commit-plugin",
+      "strict": false,
+      "skills": ["./skills/git-commit"]
     }
   ]
 }
