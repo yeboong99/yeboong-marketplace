@@ -1,0 +1,14 @@
+{
+  "name": "prd-toolkit",
+  "description": "PRD 생성, 검증, 로드맵 변환을 위한 에이전트 툴킷",
+  "version": "1.0.0",
+  "author": {
+    "name": "yeboong99"
+  },
+  "skills": [],
+  "agents": [
+    "./agents/general-web-prd-generator.md",
+    "./agents/general-web-prd-validator.md",
+    "./agents/general-web-prd-to-roadmap.md"
+  ]
+}

@@ -9,6 +9,11 @@
       "name": "git-commit",
       "description": "git commit 플러그인 (스킬)",
       "source": "./plugins/git-commit-plugin"
+    },
+    {
+      "name": "prd-toolkit",
+      "description": "PRD 생성, 검증, 로드맵 변환 에이전트 툴킷",
+      "source": "./plugins/general-web-prd-toolkit-plugin"
     }
   ]
 }
