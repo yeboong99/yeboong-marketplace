@@ -8,9 +8,7 @@
     {
       "name": "git-commit",
       "description": "git commit 플러그인 (스킬)",
-      "source": "./plugins/git-commit-plugin",
-      "strict": false,
-      "skills": ["./skills/git-commit"]
+      "source": "./plugins/git-commit-plugin"
     }
   ]
 }

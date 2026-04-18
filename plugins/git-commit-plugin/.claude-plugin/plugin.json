@@ -4,5 +4,6 @@
   "version": "1.0.0",
   "author": {
     "name": "yeboong99"
-  }
+  },
+  "skills": ["./skills/git-commit"]
 }
